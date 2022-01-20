@@ -1,0 +1,6 @@
+#pip install -r requirements.txt
+Django-=3.8.10
+# Start project : django-admin startproject MYTESTPROJECT
+# Run django project : python manage.py runserver
+# Create djago-App : python manage.py startapp MYTESTAPP
+# 
